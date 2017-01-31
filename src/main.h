@@ -9,7 +9,7 @@
 #include "sync.h"
 #include "net.h"
 #include "script.h"
-#include "algorithm/scrypt_mine.h"
+#include "scrypt_mine.h"
 
 #include <list>
 
